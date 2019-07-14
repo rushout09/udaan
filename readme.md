@@ -1,4 +1,8 @@
-#This repository is a part of submission to online test conducted by Udaan.com for recruitment purpose. Due to time constraints of 4 hours and 15 minutes, it has a very basic front end design. Also some of the functionality may still be buggy. This Web interface uses PHP, HTML, Java Script and MySQL. However, to access the web interface and APIs one must follow the procedure mentioned below.
+**UPDATE: I have included the sql file in this repo which was not included in the submission due to last minute rush.**
+
+**This repository is a part of submission to online test conducted by Udaan.com for recruitment purpose. Due to time constraints of 4 hours and 15 minutes, it has a very basic front end design.**
+
+Also some of the functionality may still be buggy. This Web interface uses PHP, HTML, Java Script and MySQL. However, to access the web interface and APIs one must follow the procedure mentioned below.
 
 #The folders in this repository must be moved to htdocs folder of a xampp applcation. The Xampp control panel must have apache server and mysql db enabled. After that you have to create following tables in a mysql database named : udaanapi
 1. workers(worker_id,name)
